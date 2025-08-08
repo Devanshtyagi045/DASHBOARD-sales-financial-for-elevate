@@ -1,0 +1,42 @@
+
+
+---
+
+### 📊 **Sales Financial Report Overview**
+
+This dashboard-driven presentation provides a comprehensive view of our sales performance across various metrics and dimensions. The visuals are designed to offer actionable insights for stakeholders and decision-makers.
+
+---
+
+### 🔍 **Key Highlights:**
+
+* **Total Sales Amount:** ₹6M
+* **Total Quantity Sold:** 13K units
+* **Total Profit Generated:** ₹2M
+
+---
+
+### 📈 **Visual Breakdown:**
+
+1. **Bar Chart – Profit by City and Sub-Category:**
+   Displays comparative profitability across cities and product sub-categories, helping identify top-performing regions and categories.
+
+2. **Treemap – Profit & Quantity by Year and Sub-Category:**
+   Analyzes both profit and quantity sold over the years for different sub-categories, showing performance trends and market shifts.
+
+3. **Donut Chart – Amount by Payment Mode & City:**
+   Reveals consumer payment preferences (Credit Card, UPI, EMI, etc.) segmented by city, helping optimize transaction strategies.
+
+4. **Bar Chart – Max Profit by Month & Top City:**
+   Tracks monthly profit peaks and highlights the leading cities driving those profits.
+
+---
+
+### 🎯 **Purpose of the Report:**
+
+This report is built to support:
+
+* Sales strategy optimization
+* Regional performance analysis
+* Product category insights
+* Payment mode efficiency evaluation
